@@ -1,0 +1,6 @@
+{
+  "name": "LSGCF",
+  "description": "La Salle Green Hills Community Fellowship - Scripture reader, sermon videos, doctrine, Sunday school, and church fellowship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
